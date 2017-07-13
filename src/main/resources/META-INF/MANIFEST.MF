@@ -1,0 +1,45 @@
+Manifest-Version: 1.0
+Class-Path: httpcore-4.4.6.jar tools.jar spring-tx-4.3.7.RELEASE.jar t
+ omcat-embed-websocket-8.5.11.jar druid-1.0.18.jar swagger-annotations
+ -1.5.10.jar spring-boot-autoconfigure-1.5.2.RELEASE.jar jedis-2.9.0.j
+ ar springfox-core-2.6.1.jar jackson-annotations-2.8.0.jar mybatis-spr
+ ing-boot-autoconfigure-1.1.1.jar zkclient-0.1.jar spring-boot-starter
+ -tomcat-1.5.2.RELEASE.jar commons-lang-2.5.jar kafka-clients-0.9.0.1.
+ jar spring-boot-starter-1.5.2.RELEASE.jar objenesis-2.1.jar jul-to-sl
+ f4j-1.7.24.jar spring-webmvc-4.3.7.RELEASE.jar javax.servlet-api-3.1.
+ 0.jar guava-18.0.jar snappy-java-1.1.1.7.jar json-path-2.2.0.jar log4
+ j-over-slf4j-1.7.24.jar javassist-3.21.0-GA.jar android-json-0.0.2013
+ 1108.vaadin1.jar spring-oxm-4.3.7.RELEASE.jar spring-web-4.3.7.RELEAS
+ E.jar jboss-logging-3.3.0.Final.jar spring-jdbc-4.3.7.RELEASE.jar jli
+ ne-0.9.94.jar commons-pool-1.6.jar httpclient-4.5.3.jar hamcrest-libr
+ ary-1.3.jar dubbo-2.8.4.jar springfox-swagger-ui-2.6.1.jar validation
+ -api-1.1.0.Final.jar json-lib-2.4-jdk15.jar spring-boot-starter-jdbc-
+ 1.5.2.RELEASE.jar commons-pool2-2.4.2.jar assertj-core-2.6.0.jar aopa
+ lliance-1.0.jar spring-boot-starter-test-1.5.2.RELEASE.jar logback-co
+ re-1.1.11.jar commons-beanutils-1.9.3.jar tomcat-embed-el-8.5.11.jar 
+ log4j-1.2.16.jar spring-aop-4.3.7.RELEASE.jar springfox-schema-2.6.1.
+ jar spring-context-support-4.3.7.RELEASE.jar commons-logging-1.1.1.ja
+ r mapstruct-1.0.0.Final.jar spring-boot-test-autoconfigure-1.5.2.RELE
+ ASE.jar spring-core-4.3.7.RELEASE.jar spring-beans-4.3.7.RELEASE.jar 
+ jackson-databind-2.8.7.jar springfox-swagger-common-2.6.1.jar spring-
+ plugin-core-1.2.0.RELEASE.jar junit-4.12.jar lz4-1.2.0.jar slf4j-api-
+ 1.7.24.jar classmate-1.3.3.jar netty-3.7.0.Final.jar curator-client-2
+ .5.0.jar commons-collections-3.2.2.jar hibernate-validator-5.3.4.Fina
+ l.jar springfox-spring-web-2.6.1.jar mybatis-spring-boot-starter-1.1.
+ 1.jar jsonassert-1.4.0.jar swagger-models-1.5.10.jar tomcat-juli-8.5.
+ 11.jar commons-codec-1.10.jar mockito-core-1.10.19.jar spring-express
+ ion-4.3.7.RELEASE.jar spring-data-commons-1.13.1.RELEASE.jar logback-
+ classic-1.1.11.jar spring-boot-starter-logging-1.5.2.RELEASE.jar spri
+ ng-boot-test-1.5.2.RELEASE.jar snakeyaml-1.17.jar jconsole.jar spring
+ -test-4.3.7.RELEASE.jar zookeeper-3.4.6.jar spring-plugin-metadata-1.
+ 2.0.RELEASE.jar tomcat-embed-core-8.5.11.jar hamcrest-core-1.3.jar my
+ sql-connector-java-5.1.41.jar jackson-core-2.8.7.jar tomcat-jdbc-8.5.
+ 11.jar springfox-swagger2-2.6.1.jar spring-boot-starter-redis-1.3.8.R
+ ELEASE.jar curator-framework-2.5.0.jar mybatis-spring-1.3.0.jar mybat
+ is-3.4.0.jar asm-5.0.3.jar jcl-over-slf4j-1.7.24.jar ezmorph-1.0.6.ja
+ r spring-data-redis-1.8.1.RELEASE.jar spring-context-4.3.7.RELEASE.ja
+ r spring-data-keyvalue-1.2.1.RELEASE.jar spring-boot-starter-web-1.5.
+ 2.RELEASE.jar json-smart-2.2.1.jar spring-boot-1.5.2.RELEASE.jar acce
+ ssors-smart-1.1.jar springfox-spi-2.6.1.jar
+Main-Class: test.Init
+

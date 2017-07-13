@@ -11,3 +11,4 @@ generatorConfig.xml
 *.cache
 *.lock
 *.classpath
+*.aa
